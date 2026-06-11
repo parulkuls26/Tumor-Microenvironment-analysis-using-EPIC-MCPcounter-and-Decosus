@@ -6,6 +6,8 @@ This project investigates changes in the tumour microenvironment of matched tumo
 
 The study compares tumour and normal samples using complementary computational frameworks to identify reproducible cellular and biological signals associated with tumour development.
 
+## Detailed report with codes and entire analysis is available in this repo as TME.pdf
+
 ---
 
 ## Objectives
