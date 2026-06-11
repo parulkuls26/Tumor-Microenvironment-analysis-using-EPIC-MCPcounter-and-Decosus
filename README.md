@@ -193,34 +193,6 @@ Despite this, several pathways showed strong nominal significance.
 
 ---
 
-## Repository Structure
-
-```text
-├── data/
-│   ├── normalized_expression_matrix.csv
-│   └── metadata.csv
-│
-├── scripts/
-│   ├── epic_deconvolution.R
-│   ├── mcpcounter_analysis.R
-│   ├── decosus_analysis.R
-│   ├── paired_ttests.R
-│   └── gsva_kegg_analysis.R
-│
-├── figures/
-│   ├── epic_heatmaps/
-│   ├── mcpcounter_heatmaps/
-│   ├── decosus_heatmaps/
-│   ├── boxplots/
-│   └── gsva_results/
-│
-├── LAQ2.html
-├── LAQ2_report.pdf
-└── README.md
-```
-
----
-
 ## Software and Packages
 
 * R
